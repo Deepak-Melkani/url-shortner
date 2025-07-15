@@ -13,9 +13,6 @@ A modern, feature-rich URL shortener web application built with React, TypeScrip
 - **Copy to Clipboard**: One-click URL copying functionality
 - **Protected Routes**: Secure access to application features
 
-## 🚀 Demo
-
-Visit the live application: [URL Shortener](https://your-deployed-url.com)
 
 ## 📸 Screenshots
 
